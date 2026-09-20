@@ -48,6 +48,7 @@ DossierExport\
 
 ## 2. BatchRenderFBX.ms
 <img width="351" height="527" alt="image" src="https://github.com/user-attachments/assets/bf339076-7119-43cb-8e98-f54ce8e343d2" />
+
 Parcourt un dossier racine contenant un sous-dossier par modèle (chacun avec
 un FBX), et pour chacun : importe, mesure, rend, puis nettoie.
 
