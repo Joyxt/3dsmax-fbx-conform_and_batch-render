@@ -7,7 +7,7 @@ Deux scripts MaxScript pour 3ds Max, conçus pour fonctionner en pipeline :
 ---
 
 ## 1. Export_FBX_Individuel.ms
-<img width="351" height="527" alt="image" src="https://github.com/user-attachments/assets/bf339076-7119-43cb-8e98-f54ce8e343d2" />
+
 
 Exporte chaque objet géométrique d'une scène 3ds Max dans son propre fichier
 FBX, un dossier par objet :
@@ -47,7 +47,7 @@ DossierExport\
 ---
 
 ## 2. BatchRenderFBX.ms
-
+<img width="351" height="527" alt="image" src="https://github.com/user-attachments/assets/bf339076-7119-43cb-8e98-f54ce8e343d2" />
 Parcourt un dossier racine contenant un sous-dossier par modèle (chacun avec
 un FBX), et pour chacun : importe, mesure, rend, puis nettoie.
 
