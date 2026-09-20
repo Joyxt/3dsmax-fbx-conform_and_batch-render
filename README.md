@@ -7,7 +7,7 @@ Deux scripts MaxScript pour 3ds Max, conçus pour fonctionner en pipeline :
 ---
 
 ## 1. Export_FBX_Individuel.ms
-<img width="670" height="607" alt="image" src="https://github.com/user-attachments/assets/db62f7d6-e110-487a-9454-0f84840e413b" />
+<img width="303" height="303" alt="image" src="https://github.com/user-attachments/assets/db62f7d6-e110-487a-9454-0f84840e413b" />
 
 
 Exporte chaque objet géométrique d'une scène 3ds Max dans son propre fichier
