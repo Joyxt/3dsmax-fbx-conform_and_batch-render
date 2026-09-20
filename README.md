@@ -1,6 +1,6 @@
 # Outils 3ds Max — Export et rendu FBX par lot
 
-Deux scripts MaxScript pour 3ds Max 2025, conçus pour fonctionner en pipeline :
+Deux scripts MaxScript pour 3ds Max, conçus pour fonctionner en pipeline :
 `Export_FBX_Individuel.ms` prépare des FBX propres à partir d'une scène,
 `BatchRenderFBX.ms` les transforme ensuite en rendus.
 
